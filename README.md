@@ -76,8 +76,9 @@ bun run preview
 
 Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
 
-Penjelasan:
 
-```bash
+Note: 
 
-```
+- saya belum menyelesaikan fitur pencarian pengguna
+- dokumentasi yang saya buat belum terlalu jelas dan masih bawaan dari framework ini
+- saya belum membuat penjelasan mengenai struktur code
