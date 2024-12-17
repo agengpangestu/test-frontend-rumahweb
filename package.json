@@ -17,5 +17,9 @@
     "vue": "latest",
     "vue-router": "latest"
   },
-  "packageManager": "pnpm@9.10.0+sha1.216899f511c8dfde183c7cb50b69009c779534a8"
+  "packageManager": "pnpm@9.10.0+sha1.216899f511c8dfde183c7cb50b69009c779534a8",
+  "devDependencies": {
+    "typescript": "^5.7.2",
+    "vue-tsc": "^2.1.10"
+  }
 }
